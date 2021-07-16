@@ -1,8 +1,6 @@
 # Libraries
 library(raster)
 library(rasterVis)
-#library(mapview)
-#library(mapedit)
 library(sf)
 library(readr)
 library(ggplot2)
@@ -12,8 +10,6 @@ library(RColorBrewer)
 library(rgdal) 
 library(maptools)
 library(sp)
-library(ggspatial) # add scalebar
-
 
 
 # Importing data
